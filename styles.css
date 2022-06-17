@@ -11,8 +11,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   background-color: #faebef;
+}
+
+html, body {
+  height: 100%;
 }
 
 h1,
